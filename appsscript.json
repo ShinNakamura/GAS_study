@@ -1,6 +1,14 @@
 {
   "timeZone": "America/New_York",
   "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "GAS_study_lib",
+        "version": "0",
+        "libraryId": "1TiOhATLjCN1xRFciW71CG0BrRWpb99p1ZKPj2QhoxyYjm-9gLxtwaRYq",
+        "developmentMode": true
+      }
+    ]
   },
   "exceptionLogging": "STACKDRIVER",
   "runtimeVersion": "V8"
